@@ -13,7 +13,6 @@ import logging
 
 #config
 KEY_ID = 'AKIA3YTK55NFSLI4MFWG' #your ID
-SECRET_KEY = 'Z0e8lxYzt95UzJklhZFpICnKSudkgUyHR5bj+zl3' #your Secret key 
 region = 'us-east-1'
 service='es'
 # host = 'https://search-photos-pakjthtmlypbdrnp4hx33vnyay.us-east-1.es.amazonaws.com'
